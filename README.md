@@ -1,1 +1,0 @@
-# pdm-ariza-tahmin
